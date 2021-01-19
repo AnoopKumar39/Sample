@@ -16,5 +16,3 @@ We would like do some practice with git
 ######## Practice-purpose
 ######## Practice-purpose
 ######## Practice-purpose
-######## Practice-purpose
-######## Practice-purpose
